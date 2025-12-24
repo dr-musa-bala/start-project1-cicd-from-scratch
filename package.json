@@ -1,0 +1,30 @@
+{
+  "name": "start-project1-cicd-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js",
+  "test": "jest"
+}
+,
+  "repository": {
+    "start": "node server.js",
+  "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dr-musa-bala/start-project-1-cicd-from-scratch/issues"
+  },
+  "homepage": "https://github.com/dr-musa-bala/start-project-1-cicd-from-scratch#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
+  }
+}
