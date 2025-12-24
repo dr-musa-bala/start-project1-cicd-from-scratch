@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node server.js",
-  "test": "jest"
-}
-,
+    "start": "node server.js",
+    "test": "jest"
+  },
   "repository": {
     "start": "node server.js",
-  "test": "jest"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -26,5 +25,8 @@
   "devDependencies": {
     "jest": "^30.2.0",
     "supertest": "^7.1.4"
+  },
+  "directories": {
+    "test": "test"
   }
 }
